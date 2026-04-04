@@ -1,0 +1,31 @@
+{
+  "name": "fashion-crawler",
+  "version": "1.0.0",
+  "description": "Crawlee-based scraper for E-Commercial fashion products",
+  "type": "module",
+  "scripts": {
+    "start": "node src/tiki-main.js",
+    "dev": "node --watch src/tiki-api-crawler.js",
+    "crawl:api": "node src/tiki-api-crawler.js",
+    "clean": "rm -rf storage/ output/",
+    "setup": "npm install && npx playwright install chromium"
+  },
+  "keywords": [
+    "crawlee",
+    "scraping",
+    "playwright",
+    "web-scraping"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@crawlee/browser": "^3.10.1",
+    "@supabase/supabase-js": "^2.99.2",
+    "crawlee": "^3.10.1",
+    "dotenv": "^16.6.1",
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
+  }
+}
