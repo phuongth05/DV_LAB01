@@ -1,0 +1,498 @@
+﻿category_id,category_name,parent_category,source_category
+1882,Dien gia dung,,diengiadung
+1884,Đồ dùng nhà bếp,Dien gia dung,diengiadung
+1892,Nồi điện các loại,Đồ dùng nhà bếp,diengiadung
+1893,Nồi cơm điện,Nồi điện các loại,diengiadung
+1918,Nồi cơm điện tử,Nồi cơm điện,diengiadung
+1919,Nồi cơm nắp gài,Nồi cơm điện,diengiadung
+1920,Nồi cơm nắp rời,Nồi cơm điện,diengiadung
+2271,Nồi cơm dung tích lớn,Nồi cơm điện,diengiadung
+1894,Nồi áp suất điện,Nồi điện các loại,diengiadung
+1895,Nồi lẩu điện,Nồi điện các loại,diengiadung
+1896,"Nồi tiềm, nồi nấu cháo",Nồi điện các loại,diengiadung
+1897,Nồi hấp,Nồi điện các loại,diengiadung
+5313,Nồi đa năng,Nồi điện các loại,diengiadung
+8123,Nồi chiên,Nồi điện các loại,diengiadung
+24072,Nồi tiềm,Nồi điện các loại,diengiadung
+1885,Bếp các loại,Đồ dùng nhà bếp,diengiadung
+1886,Bếp hồng ngoại,Bếp các loại,diengiadung
+23814,Bếp hồng ngoại đơn,Bếp hồng ngoại,diengiadung
+23816,Bếp hồng ngoại đôi,Bếp hồng ngoại,diengiadung
+1887,Bếp điện từ,Bếp các loại,diengiadung
+23808,Bếp điện từ đơn,Bếp điện từ,diengiadung
+23810,Bếp điện từ đôi,Bếp điện từ,diengiadung
+2145,Bếp điện quang,Bếp các loại,diengiadung
+1927,Bếp điện kết hợp,Bếp các loại,diengiadung
+1928,"Bếp lẩu, nướng",Bếp các loại,diengiadung
+1888,Bếp gas,Bếp các loại,diengiadung
+1889,Bếp gas dương,Bếp gas,diengiadung
+1890,Bếp gas âm,Bếp gas,diengiadung
+5449,Bếp gas du lịch - bếp gas đơn,Bếp gas,diengiadung
+23812,Phụ kiện bếp gas,Bếp gas,diengiadung
+4875,"Máy hút khói, khử mùi",Đồ dùng nhà bếp,diengiadung
+67135,Máy hút mùi kính vát,"Máy hút khói, khử mùi",diengiadung
+67136,Máy hút mùi kính cong,"Máy hút khói, khử mùi",diengiadung
+67137,Máy hút mùi đảo,"Máy hút khói, khử mùi",diengiadung
+67138,Máy hút mùi áp tường,"Máy hút khói, khử mùi",diengiadung
+67141,Máy hút mùi âm tủ,"Máy hút khói, khử mùi",diengiadung
+2022,Lò vi sóng,Đồ dùng nhà bếp,diengiadung
+2035,Lò vi sóng điện tử,Lò vi sóng,diengiadung
+2036,Lò vi sóng cơ,Lò vi sóng,diengiadung
+2037,Lò vi sóng có nướng,Lò vi sóng,diengiadung
+4746,Lò vi sóng âm,Lò vi sóng,diengiadung
+23828,Lò vi sóng hơi nước,Lò vi sóng,diengiadung
+2023,Lò nướng điện,Đồ dùng nhà bếp,diengiadung
+2040,Lò nướng thùng,Lò nướng điện,diengiadung
+4747,Lò nướng âm tủ,Lò nướng điện,diengiadung
+2041,Lò nướng thủy tinh,Lò nướng điện,diengiadung
+2042,Lò nướng bánh mì sandwich,Lò nướng điện,diengiadung
+2044,Vỉ nướng điện,Đồ dùng nhà bếp,diengiadung
+2024,"Máy xay, máy ép",Đồ dùng nhà bếp,diengiadung
+2105,Máy xay sinh tố,"Máy xay, máy ép",diengiadung
+24062,Máy xay sinh tố gia đình,Máy xay sinh tố,diengiadung
+24066,Máy xay sinh tố công nghiệp,Máy xay sinh tố,diengiadung
+2850,Máy xay cầm tay,"Máy xay, máy ép",diengiadung
+2106,Máy ép trái cây,"Máy xay, máy ép",diengiadung
+67132,Máy ép nhanh,Máy ép trái cây,diengiadung
+67133,Máy ép chậm,Máy ép trái cây,diengiadung
+2107,Máy xay ép đa năng,"Máy xay, máy ép",diengiadung
+2111,Máy xay cắt đa năng,"Máy xay, máy ép",diengiadung
+2110,Máy xay thịt,"Máy xay, máy ép",diengiadung
+2109,Máy vắt cam,"Máy xay, máy ép",diengiadung
+1931,Bình đun siêu tốc,Đồ dùng nhà bếp,diengiadung
+1932,Bình thủy điện,Đồ dùng nhà bếp,diengiadung
+1939,Máy pha cà phê,Đồ dùng nhà bếp,diengiadung
+24040,Máy pha cà phê gia đình,Máy pha cà phê,diengiadung
+24048,Máy pha cà phê chuyên dụng,Máy pha cà phê,diengiadung
+24050,Máy xay cà phê ,Máy pha cà phê,diengiadung
+24054,Phụ kiện máy pha cà phê,Máy pha cà phê,diengiadung
+8082,Máy làm kem,Đồ dùng nhà bếp,diengiadung
+2025,Máy làm sữa đậu nành,Đồ dùng nhà bếp,diengiadung
+2026,Máy làm sữa chua,Đồ dùng nhà bếp,diengiadung
+5363,Máy làm mì sợi,Đồ dùng nhà bếp,diengiadung
+2315,Máy làm bánh,Đồ dùng nhà bếp,diengiadung
+1942,Siêu sắc thuốc,Đồ dùng nhà bếp,diengiadung
+7239,Máy làm tỏi đen,Đồ dùng nhà bếp,diengiadung
+23818,Máy sấy chén,Đồ dùng nhà bếp,diengiadung
+23820,Máy sấy thực phẩm,Đồ dùng nhà bếp,diengiadung
+23822,Máy hút chân không,Đồ dùng nhà bếp,diengiadung
+23824,Máy hàn miệng túi,Đồ dùng nhà bếp,diengiadung
+23826,Máy cắt thịt đông lạnh,Đồ dùng nhà bếp,diengiadung
+8728,Đồ dùng nhà bếp khác,Đồ dùng nhà bếp,diengiadung
+2108,Máy đánh trứng,Đồ dùng nhà bếp,diengiadung
+1946,Thiết bị gia đình,Dien gia dung,diengiadung
+1993,"Bàn ủi, bàn là",Thiết bị gia đình,diengiadung
+1994,Bàn ủi hơi nước,"Bàn ủi, bàn là",diengiadung
+1996,Bàn ủi hơi nước đứng,"Bàn ủi, bàn là",diengiadung
+1995,Bàn ủi khô,"Bàn ủi, bàn là",diengiadung
+1997,"Máy may, thêu, vắt sổ",Thiết bị gia đình,diengiadung
+1998,Máy may điện tử,"Máy may, thêu, vắt sổ",diengiadung
+1999,Máy may cơ,"Máy may, thêu, vắt sổ",diengiadung
+2000,Máy thêu,"Máy may, thêu, vắt sổ",diengiadung
+8083,Máy vắt sổ,"Máy may, thêu, vắt sổ",diengiadung
+11530,"Phụ kiện máy may, thêu, vắt sổ","Máy may, thêu, vắt sổ",diengiadung
+2001,Quạt điện,Thiết bị gia đình,diengiadung
+8084,Quạt Đứng,Quạt điện,diengiadung
+2002,Quạt lửng,Quạt điện,diengiadung
+2003,Quạt treo tường,Quạt điện,diengiadung
+2004,"Quạt hơi nước, phun sương",Quạt điện,diengiadung
+5134,Quạt trần,Quạt điện,diengiadung
+2005,Quạt tháp,Quạt điện,diengiadung
+2006,Quạt bàn,Quạt điện,diengiadung
+2007,Quạt hộp,Quạt điện,diengiadung
+2008,Quạt sạc,Quạt điện,diengiadung
+6818,"Quạt hút, quạt thông gió",Quạt điện,diengiadung
+24076,Quạt mini,Quạt điện,diengiadung
+2009,Máy hút bụi,Thiết bị gia đình,diengiadung
+2038,Hút bụi gia đình,Máy hút bụi,diengiadung
+2039,Hút bụi cầm tay,Máy hút bụi,diengiadung
+2161,Hút bụi công nghiệp,Máy hút bụi,diengiadung
+13224,Phụ kiện máy hút bụi,Máy hút bụi,diengiadung
+11860,Robot hút bụi,Máy hút bụi,diengiadung
+4876,Cây Nước Nóng Lạnh,Thiết bị gia đình,diengiadung
+67129,Bình nước úp ngược,Cây Nước Nóng Lạnh,diengiadung
+67130,Bình nước lắp âm,Cây Nước Nóng Lạnh,diengiadung
+2010,Máy lọc không khí,Thiết bị gia đình,diengiadung
+5614,Máy tạo ẩm,Thiết bị gia đình,diengiadung
+5585,Máy hút ẩm,Thiết bị gia đình,diengiadung
+5010,Máy lọc nước,Thiết bị gia đình,diengiadung
+26488,Máy lọc nước có điện ,Máy lọc nước,diengiadung
+26490,Máy lọc nước không điện,Máy lọc nước,diengiadung
+26492,Phụ kiện máy lọc nước,Máy lọc nước,diengiadung
+26494,Đầu lọc nước tại vòi,Máy lọc nước,diengiadung
+5976,Máy sấy quần áo,Thiết bị gia đình,diengiadung
+5977,Máy sấy tay,Thiết bị gia đình,diengiadung
+6510,Thiết bị sưởi ấm,Thiết bị gia đình,diengiadung
+24084,Quạt sưởi,Thiết bị sưởi ấm,diengiadung
+24088,Đèn sưởi,Thiết bị sưởi ấm,diengiadung
+24090,Máy sưởi,Thiết bị sưởi ấm,diengiadung
+67125,Sưởi hồng ngoại,Máy sưởi,diengiadung
+67127,Sưởi gốm,Máy sưởi,diengiadung
+67128,Sưởi dầu,Máy sưởi,diengiadung
+55946,Thiết bị chăm sóc cá nhân,Thiết bị gia đình,diengiadung
+55948,"Tông đơ, máy cắt tóc",Thiết bị chăm sóc cá nhân,diengiadung
+55949,"Phụ kiện máy cạo râu, cắt tóc",Thiết bị chăm sóc cá nhân,diengiadung
+1989,Máy cạo râu,Thiết bị chăm sóc cá nhân,diengiadung
+2334,Máy sấy tóc,Thiết bị chăm sóc cá nhân,diengiadung
+11941,"Máy ép, duỗi tóc",Thiết bị chăm sóc cá nhân,diengiadung
+11943,Máy uốn tóc,Thiết bị chăm sóc cá nhân,diengiadung
+55947,Máy tỉa lông mũi,Thiết bị chăm sóc cá nhân,diengiadung
+1789,Dien thoai - May tinh bang,,dienthoai_maytinhbang
+1795,Điện thoại Smartphone,Dien thoai - May tinh bang,dienthoai_maytinhbang
+1794,Máy tính bảng,Dien thoai - May tinh bang,dienthoai_maytinhbang
+28856,Máy đọc sách,Dien thoai - May tinh bang,dienthoai_maytinhbang
+1796,Điện thoại phổ thông,Dien thoai - May tinh bang,dienthoai_maytinhbang
+8061,Điện thoại bàn,Dien thoai - May tinh bang,dienthoai_maytinhbang
+4221, Dien tu - Dien lanh,,dientu_dienlanh
+5015,Tivi, Dien tu - Dien lanh,dientu_dienlanh
+12900,Tivi cao cấp,Tivi,dientu_dienlanh
+4239,Smart Tivi - Android Tivi,Tivi,dientu_dienlanh
+11524,Internet Tivi,Tivi,dientu_dienlanh
+6280,Tivi 4K,Tivi,dientu_dienlanh
+4236,Tivi thường (LED),Tivi,dientu_dienlanh
+8950,Tivi QLED,Tivi,dientu_dienlanh
+7603,Tivi OLED,Tivi,dientu_dienlanh
+3862,Máy giặt, Dien tu - Dien lanh,dientu_dienlanh
+67238,Tháp giặt sấy,Máy giặt,dientu_dienlanh
+67239,Máy giặt mini,Máy giặt,dientu_dienlanh
+67240,Máy giặt cửa trên,Máy giặt,dientu_dienlanh
+67241,Máy giặt cửa ngang,Máy giặt,dientu_dienlanh
+26568,Âm thanh & Phụ kiện Tivi, Dien tu - Dien lanh,dientu_dienlanh
+7074,"Android TV Box, Smart Box",Âm thanh & Phụ kiện Tivi,dientu_dienlanh
+7082,Phụ kiện Tivi,Âm thanh & Phụ kiện Tivi,dientu_dienlanh
+7083,Điều khiển từ xa Tivi,Phụ kiện Tivi,dientu_dienlanh
+26640,Đầu thu kỹ thuật số,Phụ kiện Tivi,dientu_dienlanh
+26642,Anten Tivi,Phụ kiện Tivi,dientu_dienlanh
+7084,Giá treo Tivi,Phụ kiện Tivi,dientu_dienlanh
+26638,Cáp Tivi,Phụ kiện Tivi,dientu_dienlanh
+3863,Máy sấy quần áo, Dien tu - Dien lanh,dientu_dienlanh
+67209,Tủ sấy quần áo,Máy sấy quần áo,dientu_dienlanh
+67210,Máy sấy thông hơi,Máy sấy quần áo,dientu_dienlanh
+67212,Máy sấy ngưng tụ,Máy sấy quần áo,dientu_dienlanh
+67215,Máy sấy bơm nhiệt,Máy sấy quần áo,dientu_dienlanh
+3864,Máy rửa chén, Dien tu - Dien lanh,dientu_dienlanh
+67219,Máy rửa chén độc lập,Máy rửa chén,dientu_dienlanh
+67220,Máy rửa chén để bàn,Máy rửa chén,dientu_dienlanh
+67223,Máy rửa chén bán âm,Máy rửa chén,dientu_dienlanh
+67224,Máy rửa chén âm tủ,Máy rửa chén,dientu_dienlanh
+3865,Máy lạnh - Máy điều hòa, Dien tu - Dien lanh,dientu_dienlanh
+67235,Máy lạnh tủ đứng,Máy lạnh - Máy điều hòa,dientu_dienlanh
+67236,Máy lạnh treo tường,Máy lạnh - Máy điều hòa,dientu_dienlanh
+67237,Máy lạnh âm trần,Máy lạnh - Máy điều hòa,dientu_dienlanh
+3866,Máy nước nóng, Dien tu - Dien lanh,dientu_dienlanh
+67227,Máy nước nóng trực tiếp,Máy nước nóng,dientu_dienlanh
+67228,Máy nước nóng năng lượng mặt trời,Máy nước nóng,dientu_dienlanh
+67229,Máy nước nóng gián tiếp,Máy nước nóng,dientu_dienlanh
+2328,Tủ lạnh, Dien tu - Dien lanh,dientu_dienlanh
+67189,Tủ lạnh side by side,Tủ lạnh,dientu_dienlanh
+67190,Tủ lạnh nhiều cửa,Tủ lạnh,dientu_dienlanh
+67194,Tủ lạnh mini,Tủ lạnh,dientu_dienlanh
+3868,Tủ đông - Tủ mát, Dien tu - Dien lanh,dientu_dienlanh
+67198,Tủ mát,Tủ đông - Tủ mát,dientu_dienlanh
+67199,Tủ đông- tủ mát,Tủ đông - Tủ mát,dientu_dienlanh
+3869,Tủ ướp rượu, Dien tu - Dien lanh,dientu_dienlanh
+8074,Phụ kiện điện lạnh, Dien tu - Dien lanh,dientu_dienlanh
+28884,"Phụ kiện, linh kiện tủ lạnh",Phụ kiện điện lạnh,dientu_dienlanh
+28886,"Phụ kiện, linh kiện máy lạnh",Phụ kiện điện lạnh,dientu_dienlanh
+28888,"Phụ kiện, linh kiện máy nước nóng",Phụ kiện điện lạnh,dientu_dienlanh
+28890,"Phụ kiện, linh kiện máy giặt",Phụ kiện điện lạnh,dientu_dienlanh
+28892,"Phụ kiện, linh kiện điện lạnh khác",Phụ kiện điện lạnh,dientu_dienlanh
+1846,Laptop - May vi tinh - Linh kien,,laptop_mayvitinh_linhkien
+8095,Laptop,Laptop - May vi tinh - Linh kien,laptop_mayvitinh_linhkien
+29010,Laptop Truyền Thống,Laptop,laptop_mayvitinh_linhkien
+2458,Macbook,Laptop,laptop_mayvitinh_linhkien
+5584,Laptop Gaming,Laptop,laptop_mayvitinh_linhkien
+29012,Chromebooks,Laptop,laptop_mayvitinh_linhkien
+12884,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,Laptop - May vi tinh - Linh kien,laptop_mayvitinh_linhkien
+2665,Màn Hình Máy Tính,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+28932,Màn Hình Phổ Thông,Màn Hình Máy Tính,laptop_mayvitinh_linhkien
+12672,Màn Hình Gaming,Màn Hình Máy Tính,laptop_mayvitinh_linhkien
+28934,Màn Hình Di Động,Màn Hình Máy Tính,laptop_mayvitinh_linhkien
+28930,Màn Hình Đồ Họa,Màn Hình Máy Tính,laptop_mayvitinh_linhkien
+2308,Máy In - Photocopy,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+6556,Máy In Laser,Máy In - Photocopy,laptop_mayvitinh_linhkien
+6561,Máy In Phun,Máy In - Photocopy,laptop_mayvitinh_linhkien
+8089,Máy In Ảnh,Máy In - Photocopy,laptop_mayvitinh_linhkien
+28936,"Máy In Nhãn, Hóa Đơn",Máy In - Photocopy,laptop_mayvitinh_linhkien
+28938,Máy In Kim,Máy In - Photocopy,laptop_mayvitinh_linhkien
+8087,Máy Photocopy,Máy In - Photocopy,laptop_mayvitinh_linhkien
+28940,Linh Kiện và Phụ Kiện Máy In,Máy In - Photocopy,laptop_mayvitinh_linhkien
+6255,Phần Mềm Máy Tính,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+4532,Mực In và Toner,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+28942,Mực In Màu,Mực In và Toner,laptop_mayvitinh_linhkien
+28944,Drums và Toner Cho Máy In Laser,Mực In và Toner,laptop_mayvitinh_linhkien
+4542,Máy Scan Tài Liệu,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+8086,Giấy In,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+28946,Nhãn In,Giấy In,laptop_mayvitinh_linhkien
+28948,Giấy In Hóa Đơn - Giấy In Tem,Giấy In,laptop_mayvitinh_linhkien
+28950,Giấy In Ảnh,Giấy In,laptop_mayvitinh_linhkien
+2664,Máy Chiếu và Phụ Kiện Máy Chiếu,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+28952,Máy chiếu,Máy Chiếu và Phụ Kiện Máy Chiếu,laptop_mayvitinh_linhkien
+28960,Phụ kiện máy chiếu,Máy Chiếu và Phụ Kiện Máy Chiếu,laptop_mayvitinh_linhkien
+30020,Máy Scan Mã Vạch,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+10089,Máy Hủy Tài Liệu,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+12886,Máy Chấm Công,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+8088,Máy Fax,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+29006,Máy Đếm Tiền,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+12890,Thiết Bị Truyền Thông Hội Nghị,Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi,laptop_mayvitinh_linhkien
+8060,Thiết Bị Lưu Trữ,Laptop - May vi tinh - Linh kien,laptop_mayvitinh_linhkien
+28844,Ổ Cứng Gắn Trong,Thiết Bị Lưu Trữ,laptop_mayvitinh_linhkien
+4051,Ổ Cứng HDD,Ổ Cứng Gắn Trong,laptop_mayvitinh_linhkien
+2146,Ổ Cứng SSD,Ổ Cứng Gắn Trong,laptop_mayvitinh_linhkien
+1827,Ổ Cứng Di Động,Thiết Bị Lưu Trữ,laptop_mayvitinh_linhkien
+28840,Ổ Cứng SSD Di Động,Ổ Cứng Di Động,laptop_mayvitinh_linhkien
+28842,Ổ Cứng HDD Di Động,Ổ Cứng Di Động,laptop_mayvitinh_linhkien
+5350,Case Ổ Cứng- Hộp Đựng HDD Box - Dock Ổ Cứng,Thiết Bị Lưu Trữ,laptop_mayvitinh_linhkien
+5349,Thiết Bị Lưu Trữ Qua Mạng NAS,Thiết Bị Lưu Trữ,laptop_mayvitinh_linhkien
+1828,USB,Thiết Bị Lưu Trữ,laptop_mayvitinh_linhkien
+28838,Đĩa Trắng - Băng Cuộn,Thiết Bị Lưu Trữ,laptop_mayvitinh_linhkien
+2663,Thiết Bị Mạng,Laptop - May vi tinh - Linh kien,laptop_mayvitinh_linhkien
+13150,Thiết Bị Phát Sóng Wifi,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+4316,Access Point - Điểm Truy Cập,Thiết Bị Phát Sóng Wifi,laptop_mayvitinh_linhkien
+4293,Router Wifi,Thiết Bị Phát Sóng Wifi,laptop_mayvitinh_linhkien
+4294,USB Wifi,Thiết Bị Phát Sóng Wifi,laptop_mayvitinh_linhkien
+4343,Bộ Kích Sóng Wifi,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+4345,Bộ Phát Wifi Di Động 3G/4G - Mifi,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+4454,Bộ Chia Mạng - Switch,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+4642,Phụ Kiện Thiết Bị Mạng,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+28894,Bộ Chuyển Đổi - Transceivers,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+4346,Mở Rộng Mạng Qua Đường Điện - Powerline Ethernet,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+7361,Card Mạng,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+28896,Ăng-Ten Mạng,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+4585,Modem ADSL,Thiết Bị Mạng,laptop_mayvitinh_linhkien
+8093,PC - Máy Tính Bộ,Laptop - May vi tinh - Linh kien,laptop_mayvitinh_linhkien
+8094,Máy Tính All in one,PC - Máy Tính Bộ,laptop_mayvitinh_linhkien
+7369,Mini PC,PC - Máy Tính Bộ,laptop_mayvitinh_linhkien
+5172,Máy Tính Để Bàn Lắp Ráp,PC - Máy Tính Bộ,laptop_mayvitinh_linhkien
+29014,Towers - Máy Chủ - Server,PC - Máy Tính Bộ,laptop_mayvitinh_linhkien
+29016,Máy Tính Bộ Thương Hiệu,PC - Máy Tính Bộ,laptop_mayvitinh_linhkien
+8129,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,Laptop - May vi tinh - Linh kien,laptop_mayvitinh_linhkien
+28900,Nguồn Máy Tính,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+11964,Bộ Lưu Điện - UPS,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+11956,Mainboard - Board Mạch Chủ,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+11962,Bộ Vi Xử Lý CPU,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+11960,Vỏ Case - Thùng Máy,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+28902,Hệ Thống Tản Nhiệt,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+28904,Quạt Tản Nhiệt,Hệ Thống Tản Nhiệt,laptop_mayvitinh_linhkien
+28906,Keo - Pad Tản Nhiệt,Hệ Thống Tản Nhiệt,laptop_mayvitinh_linhkien
+11958,Card Màn Hình - VGA,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+11966,Sound Card - Card Âm Thanh,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+2680,RAM Máy Tính,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+2679,RAM Laptop,RAM Máy Tính,laptop_mayvitinh_linhkien
+12298,RAM Desktop,RAM Máy Tính,laptop_mayvitinh_linhkien
+28908,Ổ Đĩa Quang,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+28910,I/O Port Cards,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+28914,Thiết Bị Streaming và Capture Cards,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+28916,KVM Switches - Switch HDMI,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+11968,Linh Kiện Máy Tính Khác,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+28918,Linh Kiện Thay Thế Cho Laptop,Linh Kiện Máy Tính - Phụ Kiện Máy Tính,laptop_mayvitinh_linhkien
+28920,Adapter Sạc Laptop,Linh Kiện Thay Thế Cho Laptop,laptop_mayvitinh_linhkien
+28922,Bàn Phím Thay Thế Laptop,Linh Kiện Thay Thế Cho Laptop,laptop_mayvitinh_linhkien
+28924,Pin Thay Thế Laptop,Linh Kiện Thay Thế Cho Laptop,laptop_mayvitinh_linhkien
+28926,Linh Kiện Thay Thế Laptop Khác,Linh Kiện Thay Thế Cho Laptop,laptop_mayvitinh_linhkien
+1815,Thiet bi so - Phu kien so,,thietbiso_phukienso
+8215,Thiết Bị Âm Thanh và Phụ Kiện,Thiet bi so - Phu kien so,thietbiso_phukienso
+1804,Tai Nghe Có Dây,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+4428,Tai Nghe Có Dây Nhét Tai,Tai Nghe Có Dây,thietbiso_phukienso
+28638,Tai Nghe Có Dây Chụp Tai (On-Ear),Tai Nghe Có Dây,thietbiso_phukienso
+2977,Tai Nghe Có Dây Chụp Tai (Over-Ear),Tai Nghe Có Dây,thietbiso_phukienso
+1811,Tai Nghe Bluetooth,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+8400,Tai Nghe True Wireless,Tai Nghe Bluetooth,thietbiso_phukienso
+12878,Tai Nghe Bluetooth Đàm Thoại,Tai Nghe Bluetooth,thietbiso_phukienso
+5531,Tai Nghe Bluetooth Nhét Tai,Tai Nghe Bluetooth,thietbiso_phukienso
+28640,Tai Nghe Bluetooth Chụp Tai On-Ear,Tai Nghe Bluetooth,thietbiso_phukienso
+4429,Tai Nghe Bluetooth Chụp Tai Over-Ear,Tai Nghe Bluetooth,thietbiso_phukienso
+1805,Loa Nghe Nhạc,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+2324,Loa Bluetooth,Loa Nghe Nhạc,thietbiso_phukienso
+12882,Loa Bluetooth Vi Tính,Loa Nghe Nhạc,thietbiso_phukienso
+1813,Loa Vi Tính,Loa Nghe Nhạc,thietbiso_phukienso
+6653,Loa Hi-Fi - Audiophiles,Loa Nghe Nhạc,thietbiso_phukienso
+8066,Loa Kéo,Loa Nghe Nhạc,thietbiso_phukienso
+20190,Loa Trợ Giảng,Loa Nghe Nhạc,thietbiso_phukienso
+28642,Micro,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+28644,Microphone Di Động,Micro,thietbiso_phukienso
+28646,Microphone Vi Tính,Micro,thietbiso_phukienso
+7081,Micro Karaoke Bluetooth,Micro,thietbiso_phukienso
+20170,DAC và Amplifier Di Động,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+28656,Máy Thu và Máy Phát Âm Thanh,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+20172,Máy Ghi Âm,Máy Thu và Máy Phát Âm Thanh,thietbiso_phukienso
+1803,Máy Nghe Nhạc,Máy Thu và Máy Phát Âm Thanh,thietbiso_phukienso
+30374,Thiết Bị Âm Thanh,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+20174,Cáp Âm Thanh,Thiết Bị Âm Thanh,thietbiso_phukienso
+28658,Đệm và Nút Tai Nghe,Thiết Bị Âm Thanh,thietbiso_phukienso
+20182,Bộ Chuyển Đổi Không Dây,Thiết Bị Âm Thanh,thietbiso_phukienso
+5566,Phụ Kiện Âm Thanh,Thiết Bị Âm Thanh,thietbiso_phukienso
+28858,Thiết bị phát Streaming,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+7078,Máy radio cassette,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+7079,"Receivers, Amplifier, Mixer",Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+26652,Micro Karaoke - sân khấu,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+8068,Phụ kiện âm thanh,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+8070,Giá treo loa,Phụ kiện âm thanh,thietbiso_phukienso
+26658,"Cáp loa, đầu chuyển",Phụ kiện âm thanh,thietbiso_phukienso
+8073,Phụ kiện âm thanh khác,Phụ kiện âm thanh,thietbiso_phukienso
+7077,"Đầu CD, DVD, karaoke, Blu-ray",Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+28878,Đầu phát karaoke,"Đầu CD, DVD, karaoke, Blu-ray",thietbiso_phukienso
+4966,Dàn âm thanh ,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+28868,Dàn âm thanh giải trí tại gia,Dàn âm thanh ,thietbiso_phukienso
+28870,Dàn Karaoke,Dàn âm thanh ,thietbiso_phukienso
+7075,Loa,Thiết Bị Âm Thanh và Phụ Kiện,thietbiso_phukienso
+8064,"Loa thùng, loa vệ tinh",Loa,thietbiso_phukienso
+8067,"Loa thanh, Soundbar",Loa,thietbiso_phukienso
+11516,Loa karaoke,Loa,thietbiso_phukienso
+11518,Loa Bookshelf,Loa,thietbiso_phukienso
+28860,"Loa Sub, siêu trầm",Loa,thietbiso_phukienso
+28862,"Loa sân khấu, ngoài trời",Loa,thietbiso_phukienso
+28866,Loa âm trần - âm tường,Loa,thietbiso_phukienso
+2667,Thiết Bị Chơi Game và Phụ Kiện,Thiet bi so - Phu kien so,thietbiso_phukienso
+12676,Đĩa Game,Thiết Bị Chơi Game và Phụ Kiện,thietbiso_phukienso
+7273,Ghế Gaming,Thiết Bị Chơi Game và Phụ Kiện,thietbiso_phukienso
+8251,Máy Chơi Game - Console,Thiết Bị Chơi Game và Phụ Kiện,thietbiso_phukienso
+28394,Xbox,Máy Chơi Game - Console,thietbiso_phukienso
+28396,Nintendo,Máy Chơi Game - Console,thietbiso_phukienso
+28398,Máy Chơi Game Khác,Máy Chơi Game - Console,thietbiso_phukienso
+6742,Phụ Kiện Gaming,Thiết Bị Chơi Game và Phụ Kiện,thietbiso_phukienso
+9013,Tay Bấm Game - Thiết Bị Điều Khiển,Thiết Bị Chơi Game và Phụ Kiện,thietbiso_phukienso
+67167,Thiết bị điều khiển,Tay Bấm Game - Thiết Bị Điều Khiển,thietbiso_phukienso
+67169,Tay bấm,Tay Bấm Game - Thiết Bị Điều Khiển,thietbiso_phukienso
+8039,Thiết Bị Đeo Thông Minh và Phụ Kiện,Thiet bi so - Phu kien so,thietbiso_phukienso
+8040,Mắt Kính Thông Minh,Thiết Bị Đeo Thông Minh và Phụ Kiện,thietbiso_phukienso
+8042,Thiết Bị Thực Tế Ảo VR,Thiết Bị Đeo Thông Minh và Phụ Kiện,thietbiso_phukienso
+67163,Phụ kiện VR,Thiết Bị Thực Tế Ảo VR,thietbiso_phukienso
+2657,Đồng Hồ Thông Minh,Thiết Bị Đeo Thông Minh và Phụ Kiện,thietbiso_phukienso
+8043,Vòng Đeo Thông Minh - Vòng Theo Dõi Vận Động,Thiết Bị Đeo Thông Minh và Phụ Kiện,thietbiso_phukienso
+28420,Phụ Kiện Thiết Bị Đeo Thông Minh,Thiết Bị Đeo Thông Minh và Phụ Kiện,thietbiso_phukienso
+28426,Miếng dán màn hình thiết bị đeo thông minh,Phụ Kiện Thiết Bị Đeo Thông Minh,thietbiso_phukienso
+28428,"Dây Đeo Thay Thế, Phụ Trợ - Phụ Kiện Khác",Phụ Kiện Thiết Bị Đeo Thông Minh,thietbiso_phukienso
+28430,Adapter Sạc - Cáp Sạc Cho Thiết Bị Đeo,Phụ Kiện Thiết Bị Đeo Thông Minh,thietbiso_phukienso
+67155,Sạc đồng hồ thông minh,Adapter Sạc - Cáp Sạc Cho Thiết Bị Đeo,thietbiso_phukienso
+67156,Cáp đồng hồ thông minh,Adapter Sạc - Cáp Sạc Cho Thiết Bị Đeo,thietbiso_phukienso
+28432,Thiết Bị Thông Minh và Linh Kiện Điện Tử,Thiet bi so - Phu kien so,thietbiso_phukienso
+28436,Thiết Bị Số - Thiết Bị Thông Minh,Thiết Bị Thông Minh và Linh Kiện Điện Tử,thietbiso_phukienso
+8044,Máy Bộ Đàm,Thiết Bị Số - Thiết Bị Thông Minh,thietbiso_phukienso
+12864,Thiết Bị Nhà Thông Minh,Thiết Bị Số - Thiết Bị Thông Minh,thietbiso_phukienso
+28444,Thiết Bị Định Vị GPS,Thiết Bị Số - Thiết Bị Thông Minh,thietbiso_phukienso
+28446,Kim Từ Điển và Các Loại Máy Thông Dịch,Thiết Bị Số - Thiết Bị Thông Minh,thietbiso_phukienso
+10413,Đồ Chơi Công Nghệ - Thiết Bị Số và Phụ Kiện Số Khác,Thiết Bị Số - Thiết Bị Thông Minh,thietbiso_phukienso
+20246,Mạch Điện Lập Trình và Linh Kiện Điện Tử,Thiết Bị Thông Minh và Linh Kiện Điện Tử,thietbiso_phukienso
+20250,Các Module Tích Hợp,Mạch Điện Lập Trình và Linh Kiện Điện Tử,thietbiso_phukienso
+20252,Cảm Biến,Mạch Điện Lập Trình và Linh Kiện Điện Tử,thietbiso_phukienso
+20254,Linh Kiện và Các Phần Cứng Khác,Mạch Điện Lập Trình và Linh Kiện Điện Tử,thietbiso_phukienso
+67165,Các loại mạch khác,Linh Kiện và Các Phần Cứng Khác,thietbiso_phukienso
+20256,Thiết Bị Robot,Mạch Điện Lập Trình và Linh Kiện Điện Tử,thietbiso_phukienso
+20258,Phụ Kiện và Dụng Cụ Khác,Mạch Điện Lập Trình và Linh Kiện Điện Tử,thietbiso_phukienso
+28434,"Dây, Cáp Nối và Adapter Nguồn",Mạch Điện Lập Trình và Linh Kiện Điện Tử,thietbiso_phukienso
+8214,Phụ Kiện Điện Thoại và Máy Tính Bảng,Thiet bi so - Phu kien so,thietbiso_phukienso
+28448,Thẻ Nhớ và Bộ Nhớ Mở Rộng,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+1820,Thẻ Nhớ Điện Thoại,Thẻ Nhớ và Bộ Nhớ Mở Rộng,thietbiso_phukienso
+2173,USB OTG,Thẻ Nhớ và Bộ Nhớ Mở Rộng,thietbiso_phukienso
+10691,SIM Điện Thoại,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28450,SIM số,SIM Điện Thoại,thietbiso_phukienso
+28452,SIM Data - SIM 3G / 4G,SIM Điện Thoại,thietbiso_phukienso
+1821,Pin Sạc Dự Phòng,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28454,Pin Sạc Dự Phòng Di Động,Pin Sạc Dự Phòng,thietbiso_phukienso
+1823,Dây Sạc - Dây Cáp,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+5006,"Dây Cáp Sạc iPhone, iPad",Dây Sạc - Dây Cáp,thietbiso_phukienso
+5007,Dây Cáp Sạc Micro USB,Dây Sạc - Dây Cáp,thietbiso_phukienso
+12294,Dây Cáp Sạc USB Type-C,Dây Sạc - Dây Cáp,thietbiso_phukienso
+28458,Dây Cáp Sạc Đa Năng,Dây Sạc - Dây Cáp,thietbiso_phukienso
+3805,Các Loại Cáp Khác,Dây Sạc - Dây Cáp,thietbiso_phukienso
+3803,Adapter - Củ Sạc,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+12908,Adapter Sạc - Củ Sạc Thường,Adapter - Củ Sạc,thietbiso_phukienso
+12918,Adapter Sạc - Củ Sạc Xe Hơi,Adapter - Củ Sạc,thietbiso_phukienso
+12928,Đế Sạc Không Dây,Adapter - Củ Sạc,thietbiso_phukienso
+28460,Bộ Adapter Sạc Kèm Cáp Sạc,Adapter - Củ Sạc,thietbiso_phukienso
+20234,Linh Kiện Thay Thế,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28464,Pin Thay Thế,Linh Kiện Thay Thế,thietbiso_phukienso
+28466,Vỏ - Case Thay Thế,Linh Kiện Thay Thế,thietbiso_phukienso
+28468,Linh Kiện Thay Thế Khác,Linh Kiện Thay Thế,thietbiso_phukienso
+20242,Dụng Cụ Sửa Chữa và Vệ Sinh,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28470,Dụng cụ vệ sinh điện thoại và máy tính bảng,Dụng Cụ Sửa Chữa và Vệ Sinh,thietbiso_phukienso
+28472,Dụng cụ sửa chữa điện thoại và máy tính bảng,Dụng Cụ Sửa Chữa và Vệ Sinh,thietbiso_phukienso
+20220,Giá Đỡ - Chân Đế - Móc Dán,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28478,Móc Dán Đỡ Điện Thoại,Giá Đỡ - Chân Đế - Móc Dán,thietbiso_phukienso
+28480,Giá Đỡ - Chân Đế Thường,Giá Đỡ - Chân Đế - Móc Dán,thietbiso_phukienso
+28482,"Giá Đỡ - Chân Đế Gắn Ô Tô, Xe Máy",Giá Đỡ - Chân Đế - Móc Dán,thietbiso_phukienso
+20236,Túi Bảo Vệ - Túi Chống Nước,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+20244,Hộp Đựng - Túi Đựng Phụ Kiện,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+20240,Vòng Đeo - Đai Đeo,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+20222,Dây Đeo và Phụ Kiện Trang Trí,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+1824,Miếng dán màn hình,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28484,Miếng Dán Màn Hình Điện Thoại,Miếng dán màn hình,thietbiso_phukienso
+28486,Miếng Dán Thiết Bị Di Động Khác,Miếng dán màn hình,thietbiso_phukienso
+1822,Bao Da - Ốp Lưng,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28574,Bao Da - Ốp Lưng Điện Thoại iPhone,Bao Da - Ốp Lưng,thietbiso_phukienso
+28576,Bao Da - Ốp Lưng Điện Thoại Samsung,Bao Da - Ốp Lưng,thietbiso_phukienso
+28578,Bao Da - Ốp Lưng Điện Thoại Xiaomi,Bao Da - Ốp Lưng,thietbiso_phukienso
+28580,Bao Da - Ốp Lưng Điện Thoại Oppo,Bao Da - Ốp Lưng,thietbiso_phukienso
+28582,Bao Da - Ốp Lưng Điện Thoại Asus,Bao Da - Ốp Lưng,thietbiso_phukienso
+28584,Bao Da - Ốp Lưng Điện Thoại Huawei,Bao Da - Ốp Lưng,thietbiso_phukienso
+28586,Bao Da - Ốp Lưng Điện Thoại Nokia,Bao Da - Ốp Lưng,thietbiso_phukienso
+28588,Bao Da - Ốp Lưng Điện Thoại Vivo,Bao Da - Ốp Lưng,thietbiso_phukienso
+28590,Bao Da - Ốp Lưng Điện Thoại Honor,Bao Da - Ốp Lưng,thietbiso_phukienso
+28592,Bao Da - Ốp Lưng Điện Thoại Sony,Bao Da - Ốp Lưng,thietbiso_phukienso
+28594,Bao Da - Ốp Lưng Điện Thoại Khác,Bao Da - Ốp Lưng,thietbiso_phukienso
+28596,Bao Da - Ốp Lưng iPad,Bao Da - Ốp Lưng,thietbiso_phukienso
+28598,Bao Da - Ốp Lưng Máy Tính Bảng Khác,Bao Da - Ốp Lưng,thietbiso_phukienso
+20238,Bàn Phím Rời - Bút Cảm Ứng,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28616,Bút Cảm Ứng,Bàn Phím Rời - Bút Cảm Ứng,thietbiso_phukienso
+28618,Bàn Phím Rời - Ốp Tích Hợp Bàn Phím,Bàn Phím Rời - Bút Cảm Ứng,thietbiso_phukienso
+28620,Phụ Kiện Chụp Hình,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+2659,Gậy Tự Sướng - Selfie,Phụ Kiện Chụp Hình,thietbiso_phukienso
+20212,Lens Cho Điện Thoại,Phụ Kiện Chụp Hình,thietbiso_phukienso
+28622,Đèn Flash Selfie - Flash Mini,Phụ Kiện Chụp Hình,thietbiso_phukienso
+28624,Phụ Kiện Chơi Game,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28628,Tay Cầm Chơi Game Điện Thoại,Phụ Kiện Chơi Game,thietbiso_phukienso
+28630,Phụ Kiện Chơi Game Điện Thoại Khác,Phụ Kiện Chơi Game,thietbiso_phukienso
+1819,Phụ Kiện Di Động Khác,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+69243,Miếng dán màn hình điện thoại và máy tính bảng,Phụ Kiện Điện Thoại và Máy Tính Bảng,thietbiso_phukienso
+28670,Phụ kiện máy tính và Laptop,Thiet bi so - Phu kien so,thietbiso_phukienso
+28672,Dụng Cụ Vệ Sinh và Sửa Chữa,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+28674,Dụng cụ vệ sinh máy tính và laptop,Dụng Cụ Vệ Sinh và Sửa Chữa,thietbiso_phukienso
+28676,Dụng cụ sửa chữa máy tính và laptop,Dụng Cụ Vệ Sinh và Sửa Chữa,thietbiso_phukienso
+7795,Phụ Kiện Laptop,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+28678,Dây Chống Trộm Laptop,Phụ Kiện Laptop,thietbiso_phukienso
+28680,Skin và Decal Dán Laptop,Phụ Kiện Laptop,thietbiso_phukienso
+1832,Đế Tản Nhiệt Laptop,Phụ Kiện Laptop,thietbiso_phukienso
+28682,Giá Đỡ Laptop,Phụ Kiện Laptop,thietbiso_phukienso
+28684,Case - Vỏ Ốp Lưng Laptop,Phụ Kiện Laptop,thietbiso_phukienso
+28686,Miếng Phủ Bàn Phím Laptop,Phụ Kiện Laptop,thietbiso_phukienso
+4880,Webcam Máy Tính,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+28688,Bút Trình Chiếu,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+1831,Bàn Di Chuột - Miếng Lót Chuột,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+28690,Phụ Kiện Phím Chuột Văn Phòng,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+1836,Bộ Phím Chuột Văn Phòng,Phụ Kiện Phím Chuột Văn Phòng,thietbiso_phukienso
+1829,Chuột Văn Phòng,Phụ Kiện Phím Chuột Văn Phòng,thietbiso_phukienso
+1837,Chuột Văn Phòng Có Dây,Chuột Văn Phòng,thietbiso_phukienso
+1838,Chuột Văn Phòng Không Dây,Chuột Văn Phòng,thietbiso_phukienso
+1830,Bàn Phím Văn Phòng,Phụ Kiện Phím Chuột Văn Phòng,thietbiso_phukienso
+5263,Bàn Phím Văn Phòng Có Dây,Bàn Phím Văn Phòng,thietbiso_phukienso
+5264,Bàn Phím Văn Phòng Không Dây,Bàn Phím Văn Phòng,thietbiso_phukienso
+28694,Phụ Kiện Phím Chuột Văn Phòng Khác,Phụ Kiện Phím Chuột Văn Phòng,thietbiso_phukienso
+28692,Phụ Kiện Phím Chuột Chơi Game,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+28696,Bộ Phím Chuột Chơi Game,Phụ Kiện Phím Chuột Chơi Game,thietbiso_phukienso
+5267,Bàn Phím Chơi Game,Phụ Kiện Phím Chuột Chơi Game,thietbiso_phukienso
+3428,Chuột Chơi Game,Phụ Kiện Phím Chuột Chơi Game,thietbiso_phukienso
+28698,Phụ Kiện Phím Chuột Chơi Game Khác,Phụ Kiện Phím Chuột Chơi Game,thietbiso_phukienso
+28702,Tai Nghe Máy Tính,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+28704,Tai Nghe Văn Phòng - Headset,Tai Nghe Máy Tính,thietbiso_phukienso
+2971,Tai Nghe Chơi Game,Tai Nghe Máy Tính,thietbiso_phukienso
+28706,Công Cụ Đồ Họa - Thiết Bị Cảm Ứng,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+12876,Bảng Vẽ Đồ Họa Cảm Ứng,Công Cụ Đồ Họa - Thiết Bị Cảm Ứng,thietbiso_phukienso
+28708,Bút Vẽ Đồ Họa Cảm Ứng,Công Cụ Đồ Họa - Thiết Bị Cảm Ứng,thietbiso_phukienso
+28714,Thiết Bị Đồ Họa và Công Cụ Khác,Công Cụ Đồ Họa - Thiết Bị Cảm Ứng,thietbiso_phukienso
+12296,Các Loại Cáp Chuyển Đổi,Phụ kiện máy tính và Laptop,thietbiso_phukienso
+28716,Dây Nguồn,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28718,Dây Cáp SATA,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28720,Dây Cáp Thunderbolt,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28722,Dây Cáp USB,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28724,Dây Cáp VGA-DVI,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+3804,Cáp HDMI - Displayport,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28726,Dây Cáp Tín Hiệu Khác,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28732,Đầu Đọc Thẻ Nhớ,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+8519,Hub USB,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28734,Hub Chuyển Đổi USB-A,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+4593,Hub Chuyển Đổi USB Type-C,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28736,Bộ Chuyển Đổi Khác,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+28738,Bộ Chuyển Đổi Tín Hiệu HDMI/VGA/DVI/DP,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
+67178,Bộ chuyển đổi HDMI - VGA,Bộ Chuyển Đổi Tín Hiệu HDMI/VGA/DVI/DP,thietbiso_phukienso
+28740,Cáp Song Song - Cáp Máy In - Cáp Serial,Các Loại Cáp Chuyển Đổi,thietbiso_phukienso
