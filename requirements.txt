@@ -8,3 +8,6 @@ torch
 tqdm
 transformers
 ipython
+xgboost
+huggingface_hub
+shap
